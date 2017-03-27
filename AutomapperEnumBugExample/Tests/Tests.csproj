@@ -65,9 +65,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AutomapperEnumBugExample\AutomapperEnumBugExample.csproj">
-      <Project>{15F14B35-4D70-4976-927D-532925245288}</Project>
-      <Name>AutomapperEnumBugExample</Name>
+    <ProjectReference Include="..\ClassLibrary\ExampleClassLibrary.csproj">
+      <Project>{15f14b35-4d70-4976-927d-532925245288}</Project>
+      <Name>ExampleClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

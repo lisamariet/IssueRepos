@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace AutomapperEnumBugExample.Startup
+namespace ExampleClassLibrary.Startup
 {
     public class MappingConfigFactory
     {

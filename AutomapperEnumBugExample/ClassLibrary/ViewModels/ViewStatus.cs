@@ -1,4 +1,4 @@
-﻿namespace AutomapperEnumBugExample.ViewModels
+﻿namespace ExampleClassLibrary.ViewModels
 {
     public enum ViewStatus
     {

@@ -7,8 +7,8 @@
     <ProjectGuid>{15F14B35-4D70-4976-927D-532925245288}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutomapperEnumBugExample</RootNamespace>
-    <AssemblyName>AutomapperEnumBugExample</AssemblyName>
+    <RootNamespace>ExampleClassLibrary</RootNamespace>
+    <AssemblyName>ExampleClassLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

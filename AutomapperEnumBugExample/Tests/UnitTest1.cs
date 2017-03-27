@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
-using AutomapperEnumBugExample.DomainModels;
-using AutomapperEnumBugExample.Startup;
-using AutomapperEnumBugExample.ViewModels;
 using AutoMapper;
+using ExampleClassLibrary.DomainModels;
+using ExampleClassLibrary.Startup;
+using ExampleClassLibrary.ViewModels;
 using NUnit.Framework;
 
 namespace Tests

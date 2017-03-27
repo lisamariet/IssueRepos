@@ -1,4 +1,4 @@
-﻿namespace AutomapperEnumBugExample.DomainModels
+﻿namespace ExampleClassLibrary.DomainModels
 {
     public enum Status
     {

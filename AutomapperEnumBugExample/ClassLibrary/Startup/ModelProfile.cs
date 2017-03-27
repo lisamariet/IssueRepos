@@ -1,9 +1,9 @@
 ﻿using System;
-using AutomapperEnumBugExample.DomainModels;
-using AutomapperEnumBugExample.ViewModels;
 using AutoMapper;
+using ExampleClassLibrary.DomainModels;
+using ExampleClassLibrary.ViewModels;
 
-namespace AutomapperEnumBugExample.Startup
+namespace ExampleClassLibrary.Startup
 {
     public class ModelProfile : Profile
     {
